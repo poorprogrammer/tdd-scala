@@ -1,0 +1,11 @@
+~compile
+console
+~test
+reload
+update
+~test
+testOnly TestRobozzle
+~testOnly TestRobozzle
+console
+quit
+bye
